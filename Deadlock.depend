@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1479480460 source:/home/mwalling/Documents/Deadlock/Lock.cpp
+	<assert.h>
+	<pthread.h>
+	"Lock.h"
+
+1479480552 /home/mwalling/Documents/Deadlock/Lock.h
+	<pthread.h>
+
+1480540112 source:/home/mwalling/Documents/Deadlock/main.cpp
+	<time.h>
+	<stdio.h>
+	"Chopstick.h"
+	"thread.h"
+
+1479487038 /home/mwalling/Documents/Deadlock/TestObject.h
+	"Lock.h"
+
+1474904514 /home/mwalling/Documents/Deadlock/thread.h
+	<pthread.h>
+	<unistd.h>
+
+1479487314 source:/home/mwalling/Documents/Deadlock/TestObject.cpp
+	"TestObject.h"
+
+1474904480 source:/home/mwalling/Documents/Deadlock/thread.c
+	<assert.h>
+	<pthread.h>
+	<errno.h>
+	<sched.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+	"thread.h"
+
+1480536249 source:/home/mwalling/Documents/Deadlock/Chopstick.cpp
+	<stdio.h>
+	"Chopstick.h"
+
+1480534662 /home/mwalling/Documents/Deadlock/Chopstick.h
+	"Lock.h"
+
+1479480460 source:/home/tj1/Desktop/Deadlock/Lock.cpp
+	<assert.h>
+	<pthread.h>
+	"Lock.h"
+
+1479480552 /home/tj1/Desktop/Deadlock/Lock.h
+	<pthread.h>
+
+1474904480 source:/home/tj1/Desktop/Deadlock/thread.c
+	<assert.h>
+	<pthread.h>
+	<errno.h>
+	<sched.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+	"thread.h"
+
+1474904514 /home/tj1/Desktop/Deadlock/thread.h
+	<pthread.h>
+	<unistd.h>
+
+1481669128 source:/home/tj1/Desktop/Deadlock/Chopstick.cpp
+	<stdio.h>
+	"Chopstick.h"
+
+1481669578 /home/tj1/Desktop/Deadlock/Chopstick.h
+	"Lock.h"
+	"CV.h"
+
+1403845886 source:/home/tj1/Desktop/Deadlock/CV.cpp
+	<assert.h>
+	<pthread.h>
+	"CV.h"
+	"Lock.h"
+
+1481663327 /home/tj1/Desktop/Deadlock/CV.h
+	<pthread.h>
+	"Lock.h"
+
+1481669450 source:/home/tj1/Desktop/Deadlock/main.cpp
+	<time.h>
+	<stdio.h>
+	"Chopstick.h"
+	"thread.h"
+
+1481668127 /home/tj1/Desktop/Deadlock/Queue.h
+	"Lock.h"
+	"CV.h"
+
+1481669128 source:/home/tj1/Desktop/Deadlock2/Chopstick.cpp
+	<stdio.h>
+	"Chopstick.h"
+
+1481670009 /home/tj1/Desktop/Deadlock2/Chopstick.h
+	"Lock.h"
+	"CV.h"
+
+1479480552 /home/tj1/Desktop/Deadlock2/Lock.h
+	<pthread.h>
+
+1481663327 /home/tj1/Desktop/Deadlock2/CV.h
+	<pthread.h>
+	"Lock.h"
+
+1403845886 source:/home/tj1/Desktop/Deadlock2/CV.cpp
+	<assert.h>
+	<pthread.h>
+	"CV.h"
+	"Lock.h"
+
+1479480460 source:/home/tj1/Desktop/Deadlock2/Lock.cpp
+	<assert.h>
+	<pthread.h>
+	"Lock.h"
+
+1481669572 source:/home/tj1/Desktop/Deadlock2/main.cpp
+	<time.h>
+	<stdio.h>
+	"Chopstick.h"
+	"thread.h"
+
+1474904514 /home/tj1/Desktop/Deadlock2/thread.h
+	<pthread.h>
+	<unistd.h>
+
+1474904480 source:/home/tj1/Desktop/Deadlock2/thread.c
+	<assert.h>
+	<pthread.h>
+	<errno.h>
+	<sched.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+	"thread.h"
+
+1481669128 source:/home/tj1/Desktop/Final Project/Deadlock_Condition_Var/Chopstick.cpp
+	<stdio.h>
+	"Chopstick.h"
+
+1481670009 /home/tj1/Desktop/Final Project/Deadlock_Condition_Var/Chopstick.h
+	"Lock.h"
+	"CV.h"
+
+1479480552 /home/tj1/Desktop/Final Project/Deadlock_Condition_Var/Lock.h
+	<pthread.h>
+
+1481663327 /home/tj1/Desktop/Final Project/Deadlock_Condition_Var/CV.h
+	<pthread.h>
+	"Lock.h"
+
+1403845886 source:/home/tj1/Desktop/Final Project/Deadlock_Condition_Var/CV.cpp
+	<assert.h>
+	<pthread.h>
+	"CV.h"
+	"Lock.h"
+
+1479480460 source:/home/tj1/Desktop/Final Project/Deadlock_Condition_Var/Lock.cpp
+	<assert.h>
+	<pthread.h>
+	"Lock.h"
+
+1474904480 source:/home/tj1/Desktop/Final Project/Deadlock_Condition_Var/thread.c
+	<assert.h>
+	<pthread.h>
+	<errno.h>
+	<sched.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+	"thread.h"
+
+1474904514 /home/tj1/Desktop/Final Project/Deadlock_Condition_Var/thread.h
+	<pthread.h>
+	<unistd.h>
+
